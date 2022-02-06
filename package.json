@@ -1,0 +1,19 @@
+{
+  "name": "nodejssamples",
+  "version": "1.0.0",
+  "description": "Sample test for node js basics ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahtashamjaved/NodejsSamples.git"
+  },
+  "author": "Ahtasham Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahtashamjaved/NodejsSamples/issues"
+  },
+  "homepage": "https://github.com/ahtashamjaved/NodejsSamples#readme"
+}
